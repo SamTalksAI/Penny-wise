@@ -30,6 +30,8 @@ a{color:var(--green-d)}
 .coin-counter{background:#fff;border:2px solid var(--gold-d);border-radius:999px;padding:4px 12px;font-weight:700}
 .site-footer{text-align:center;padding:16px;border-top:1px solid var(--line);color:var(--muted);font-size:.85rem;background:#fff}
 .site-footer nav{margin-bottom:6px}
+.credit{max-width:700px;margin:0 auto 6px;color:var(--muted);font-size:.85rem;line-height:1.4}
+.credit a{color:var(--green-d)}
 .disclaimer{max-width:700px;margin:0 auto}
 
 /* Generic */

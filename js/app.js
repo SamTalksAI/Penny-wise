@@ -597,6 +597,7 @@
         <div class="card">
           <p><b>Penny Wise</b> is a free, short course for children aged 10–13. Each of the 5 missions has a 2-screen lesson, a hands-on activity, a 3-question quiz with explanations, and an <b>optional Bonus Challenge</b> with harder math (percentages, multi-step problems, the Rule of 72) for older or more confident kids.</p>
           <p><b>Privacy:</b> no accounts, no ads, no tracking, no data sent anywhere. Progress (coins, badges, first name on the certificate) is stored only in this browser’s local storage. You can erase it below.</p>
+          <p>Created by <a href="https://x.com/SamTalksAI" target="_blank" rel="noopener">@SamTalksAI</a>.</p>
         </div>
         <h2>How to use it</h2>
         <ul>

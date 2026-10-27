@@ -2,6 +2,8 @@
 
 A self-contained static web app (HTML/CSS/JS, no build step, no backend, no tracking, works offline).
 
+Created by [@SamTalksAI](https://x.com/SamTalksAI).
+
 ## Run locally
     cd money-app && python3 -m http.server 8000   # then open http://localhost:8000
 
